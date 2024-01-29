@@ -1,0 +1,3 @@
+variable "raj_subnet" {
+  
+}

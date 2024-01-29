@@ -1,0 +1,3 @@
+variable "amit-storage" {
+
+}
